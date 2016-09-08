@@ -15,4 +15,4 @@ Mode 2: When one client click the start button, a scrambled word is shown on the
 
 Mode 3: When game ends, winner is displayed. If you lose then correct unscrambled word is also shown on the screen. This mode allows clients to restart game again. This document has screenshots and code attached.
 
-[Read more words!](pics/)
+[SCREENSHOTS](pics/)
