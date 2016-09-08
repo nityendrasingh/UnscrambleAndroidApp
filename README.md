@@ -1,7 +1,7 @@
 # UnscrambleAndroidApp
 Let’s Unscramble Android Part
 
-By: Nityendra Singh
+By: Nityendra Singh (Nov 2014)
 
 Unscramble Game is developed using android app (client side) and C (server side). This android app is a multiplayer game in which the game can be started by any one of the clients currently logged in. Android app part of Unscramble Game was done using two activities 1. ServerLoginScreen.java and 2. StartGameScreen.java.
 
